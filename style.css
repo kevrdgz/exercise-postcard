@@ -1,0 +1,58 @@
+.main{
+    height: 800px;
+    width: 600px;
+
+}
+.header{
+    height: 100px;
+    width: 500px;
+    overflow: hidden;
+   
+}
+.header2{
+    height: 80px;
+    width: 80px; 
+   
+    float: right;
+    padding:10px;
+}
+.header3{
+    height: 80px;
+    width: 380px; 
+    
+    float: right;
+    padding: 10px;
+    
+}
+
+.mid{
+    height: 200px;
+    width: 500px;
+    overflow: hidden;
+   
+}
+.mid2{
+    height: 190px;
+    width: 240px; 
+    text-align: right;
+    float: right;
+    padding: 5px;
+}
+.mid3{
+    height: 190px;
+    width: 240px; 
+   
+    float: right;
+    padding: 5px;
+    
+}
+.pie{
+    height: 100px;
+    width: 500px;
+    text-align: center;    
+}
+.img{
+    float: right;
+    width: 70px;
+    height: 70px;
+}
